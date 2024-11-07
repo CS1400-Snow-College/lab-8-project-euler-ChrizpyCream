@@ -1,0 +1,15 @@
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\bin\Debug\net8.0\lab-8-project-euler-ChrizpyCream.exe
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\bin\Debug\net8.0\lab-8-project-euler-ChrizpyCream.deps.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\bin\Debug\net8.0\lab-8-project-euler-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\bin\Debug\net8.0\lab-8-project-euler-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\bin\Debug\net8.0\lab-8-project-euler-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\refint\lab-8-project-euler-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\lab-8-project-euler-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-8-project-euler-ChrizpyCream\obj\Debug\net8.0\ref\lab-8-project-euler-ChrizpyCream.dll
